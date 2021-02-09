@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GL BasicApp GitHub", "GL BasicApp GitHub\GL BasicApp GitHub.csproj", "{6FADD5A0-3701-41AF-A489-756F6663D8CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicAppTest", "BasicAppTest\BasicAppTest.csproj", "{F93CF4A4-0C14-4AD8-A363-FAD57CF9AA33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FADD5A0-3701-41AF-A489-756F6663D8CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FADD5A0-3701-41AF-A489-756F6663D8CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FADD5A0-3701-41AF-A489-756F6663D8CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FADD5A0-3701-41AF-A489-756F6663D8CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F93CF4A4-0C14-4AD8-A363-FAD57CF9AA33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F93CF4A4-0C14-4AD8-A363-FAD57CF9AA33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F93CF4A4-0C14-4AD8-A363-FAD57CF9AA33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F93CF4A4-0C14-4AD8-A363-FAD57CF9AA33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C4FE910-AEFC-466F-94C6-F5A62F8E3E3A}
+	EndGlobalSection
+EndGlobal
